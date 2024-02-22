@@ -64,7 +64,7 @@ fig <- fig %>% layout(
 fig
 
 ##############################################################################################################
-// Code Taken from https://r-graph-gallery.com/treemap.html
+# Code Taken from https://r-graph-gallery.com/treemap.html
 
 # library
 install.packages("treemap")
